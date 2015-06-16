@@ -3,7 +3,8 @@
 //otherwise return the string false. For example: "racecar" is also "racecar" backwards. 
 //Punctuation and numbers will not be part of the string. 
 
-var palindrome = function(string) {
+var isPalindrome = function(string) {
+  if( typeof string !== 'string'){ string = string.toString() }
 
   for( var i = 0, j = string.length - 1; i < string.length/2; i++, j-- ){
     if( string[i] !== string[j] ){
@@ -13,5 +14,3 @@ var palindrome = function(string) {
 
   return true;
 };
-
-palindrome('racecar');
