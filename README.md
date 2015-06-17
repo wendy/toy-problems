@@ -8,3 +8,5 @@
 ##ProjectEuler
 * [largestPalindromeProduct](palindrome/largestPalindromeProduct.js)
 * [largestPrimeFactor](prime/largestPrimeFactor.js)
+* [smallestMultiple](multiple/smallestMultiple.js)
+* [sumSquareDifference](projecteuler/sumSquareDifference.js)
