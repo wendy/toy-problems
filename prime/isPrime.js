@@ -7,7 +7,7 @@ var isPrime = function(num) {
   if( num === 2 ){ return true; }
   if( num % 2 === 0 ){ return false; }
 
-  for( var i = 3; i < Math.sqrt(num); i = i + 2 ){
+  for( var i = 3; i <= Math.sqrt(num); i = i + 2 ){
     if( num % i === 0 ){
       return false;
     }
