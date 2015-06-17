@@ -1,8 +1,10 @@
 # toy-problems
 
 ##CoderByte
-* reverseString
-* isPalindrome
+* [reverseString](reverseString/reverseString.js)
+* [isPalindrome](palindrome/isPalindrome.js)
+* [isPrime](prime/isPrime.js)
 
 ##ProjectEuler
-* largestPalindromeProduct
+* [largestPalindromeProduct](palindrome/largestPalindromeProduct.js)
+* [largestPrimeFactor](prime/largestPrimeFactor.js)
