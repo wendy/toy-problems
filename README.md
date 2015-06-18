@@ -12,3 +12,4 @@
 * [sumSquareDifference](projecteuler/sumSquareDifference.js)
 * [10001stPrime](prime/10001stPrime.js)
 * [largestProductInASeries](multiple/largestProductInASeries.js)
+* [specialPythagoreanTriplet](projecteuler/specialPythagoreanTriplet.js)
