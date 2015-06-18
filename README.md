@@ -13,3 +13,4 @@
 * [10001stPrime](prime/10001stPrime.js)
 * [largestProductInASeries](multiple/largestProductInASeries.js)
 * [specialPythagoreanTriplet](projecteuler/specialPythagoreanTriplet.js)
+* [summationOfPrimes](prime/summationOfPrimes.js)
