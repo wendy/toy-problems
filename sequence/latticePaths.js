@@ -4,24 +4,23 @@
 
 var latticePath = function(grid) {
   var solutions = 0;
+  var first = true;
 
-  var findPaths = function(index){
-    var x = index[0];
-    var y = index[1];
-    console.log("beginning", x, y);
+  var findPaths = function(x, y){
 
-    if( x === grid && y === grid ){ solutions++; return; }
+    if( x === grid && y === grid ){ solutions++; return;}
 
-    if( x < grid ){
-      findPaths([ x + 1, y ])
+    if( x < grid && !first ){
+      findPaths( x + 1, y );
     }
-    if ( y < grid ){ 
-      findPaths( [x, y + 1] )
+    if ( y < grid ){
+      first = false; 
+      findPaths( x, y + 1 );
     }
   };
 
-  findPaths([0,0])
+  findPaths(0,0)
   return solutions;
 };
 
-console.log( latticePath(20) );
+console.log( latticePath(20) * 2 );
