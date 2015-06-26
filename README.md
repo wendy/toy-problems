@@ -14,3 +14,11 @@
 * [largestProductInASeries](multiple/largestProductInASeries.js)
 * [specialPythagoreanTriplet](projecteuler/specialPythagoreanTriplet.js)
 * [summationOfPrimes](prime/summationOfPrimes.js)
+* [highlyDivisibleTriangularNumber](projecteuler/highlyDivisibleTriangularNumber.js)
+* [largeSum](sum/largeSum.js)
+* [longestCollatzSequence](sequence/longestCollatzSequence.js)
+* [latticePaths](sequence/latticePaths.js)
+* [numberLetterCounts](sum/numberLetterCounts.js)
+* [maximumPathSum1](sum/maximumPathSum1.js)
+
+* [maximumPathSum2](sum/maximumPathSum2.js)
