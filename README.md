@@ -18,9 +18,9 @@
 * [largeSum](sum/largeSum.js)
 * [longestCollatzSequence](sequence/longestCollatzSequence.js)
 * [latticePaths](sequence/latticePaths.js)
+* [powerDigitSum](sum/powerDigitSum.js)
 * [numberLetterCounts](sum/numberLetterCounts.js)
 * [maximumPathSum1](sum/maximumPathSum1.js)
 * [countingSundays](sequence/countingSundays.js)
 * [factorialDigitSum](sum/factorialDigitSum.js)
-
 * [maximumPathSum2](sum/maximumPathSum2.js)
