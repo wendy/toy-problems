@@ -23,4 +23,5 @@
 * [maximumPathSum1](sum/maximumPathSum1.js)
 * [countingSundays](sequence/countingSundays.js)
 * [factorialDigitSum](sum/factorialDigitSum.js)
+* [amicableNumbers](sum/amicableNumbers.js)
 * [maximumPathSum2](sum/maximumPathSum2.js)
