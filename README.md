@@ -24,4 +24,5 @@
 * [countingSundays](sequence/countingSundays.js)
 * [factorialDigitSum](sum/factorialDigitSum.js)
 * [amicableNumbers](sum/amicableNumbers.js)
+* [nonAbundantSum](sum/nonAbundantSum.js)
 * [maximumPathSum2](sum/maximumPathSum2.js)
