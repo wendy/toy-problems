@@ -26,4 +26,5 @@
 * [amicableNumbers](sum/amicableNumbers.js)
 * [namesScores](sum/namesScores.js)
 * [nonAbundantSum](sum/nonAbundantSum.js)
+* [lexicographicPermutations](sequence/lexicographicPermutations.js)
 * [maximumPathSum2](sum/maximumPathSum2.js)
