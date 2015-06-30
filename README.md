@@ -27,4 +27,5 @@
 * [namesScores](sum/namesScores.js)
 * [nonAbundantSum](sum/nonAbundantSum.js)
 * [lexicographicPermutations](sequence/lexicographicPermutations.js)
+* [1000DigitFibonacciNumber](sequence/1000DigitFibonacciNumber.js)
 * [maximumPathSum2](sum/maximumPathSum2.js)
