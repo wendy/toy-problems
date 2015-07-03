@@ -30,4 +30,5 @@
 * [1000DigitFibonacciNumber](sequence/1000DigitFibonacciNumber.js)
 * [numberSpiralDiagonals](sequence/numberSpiralDiagonals.js)
 * [distinctPowers](sequence/distinctPowers.js)
+* [coinSums](sum/coinSums.js)
 * [maximumPathSum2](sum/maximumPathSum2.js)
