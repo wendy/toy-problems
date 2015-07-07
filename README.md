@@ -33,4 +33,5 @@
 * [coinSums](sum/coinSums.js)
 * [pandigitalProducts](multiple/pandigitalProducts.js)
 * [digitCancellingFractions](sequence/digitCancellingFractions.js)
+* [digitFactorials](sequence/digitFactorials.js)
 * [maximumPathSum2](sum/maximumPathSum2.js)
