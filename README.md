@@ -34,4 +34,5 @@
 * [pandigitalProducts](multiple/pandigitalProducts.js)
 * [digitCancellingFractions](sequence/digitCancellingFractions.js)
 * [digitFactorials](sequence/digitFactorials.js)
+* [circularPrimes](prime/circularPrimes.js)
 * [maximumPathSum2](sum/maximumPathSum2.js)
