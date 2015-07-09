@@ -30,6 +30,7 @@
 * [1000DigitFibonacciNumber](sequence/1000DigitFibonacciNumber.js)
 * [numberSpiralDiagonals](sequence/numberSpiralDiagonals.js)
 * [distinctPowers](sequence/distinctPowers.js)
+* [digitFifthPowers](sequence/digitFifthPowers.js)
 * [coinSums](sum/coinSums.js)
 * [pandigitalProducts](multiple/pandigitalProducts.js)
 * [digitCancellingFractions](sequence/digitCancellingFractions.js)
