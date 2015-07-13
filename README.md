@@ -37,4 +37,5 @@
 * [digitFactorials](sequence/digitFactorials.js)
 * [circularPrimes](prime/circularPrimes.js)
 * [truncatablePrimes](prime/truncatablePrimes.js)
+* [pandigitalMultiples](multiple/pandigitalMultiples.js)
 * [maximumPathSum2](sum/maximumPathSum2.js)
