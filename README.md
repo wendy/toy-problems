@@ -38,4 +38,5 @@
 * [circularPrimes](prime/circularPrimes.js)
 * [truncatablePrimes](prime/truncatablePrimes.js)
 * [pandigitalMultiples](multiple/pandigitalMultiples.js)
+* [integerRightTriangles](projecteuler/integerRightTriangles.js)
 * [maximumPathSum2](sum/maximumPathSum2.js)
