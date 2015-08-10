@@ -41,3 +41,6 @@
 * [integerRightTriangles](projecteuler/integerRightTriangles.js)
 * [champernownesConstant](sequence/champernownesConstant.js)
 * [maximumPathSum2](sum/maximumPathSum2.js)
+
+##CrackingTheCodingInterview
+* [isPalindromePermutation](palindrome/isPalindromePermutation.js)
